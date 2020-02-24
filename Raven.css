@@ -1,0 +1,28 @@
+body {
+  background-color: Light Grey;
+  background-image: url("raven.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;	
+}
+
+
+h1 {
+
+	font-family:courier;
+	font-size:300%;
+	text-align:center;
+}
+
+div {
+	float: right;
+	width: 50%;
+	border: 15px;
+	padding: 25px;
+	margin: auto;
+	outline-style: dotted;
+	outline-width:thick;
+}
+
+	
+	
